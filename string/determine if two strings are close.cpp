@@ -1,5 +1,14 @@
+//problem statement:
+//Input: word1 = "abc", word2 = "bca"
+//Output: true
+//Explanation: You can attain word2 from word1 in 2 operations.
+//Apply Operation 1: "abc" -> "acb"
+//Apply Operation 1: "acb" -> "bca"
+
 //T.C : O(n)
 //S.C : O(26) ~ O(1)
+
+
 class Solution {
 public:
     bool closeStrings(string word1, string word2) {
