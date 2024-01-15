@@ -1,3 +1,5 @@
+//T.C : O(n)
+//S.C : O(26) ~ O(1)
 class Solution {
 public:
     bool closeStrings(string word1, string word2) {
