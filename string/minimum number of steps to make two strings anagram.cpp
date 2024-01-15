@@ -1,3 +1,9 @@
+//problem statement
+//Input: s = "bab", t = "aba"
+//Output: 1
+//Explanation: Replace the first 'a' in t with b, t = "bba" which is anagram of s.
+
+
 /****************************************************** C++ ******************************************************/
 //Approach-1 (Using 2 counters)
 //T.C : O(n)
