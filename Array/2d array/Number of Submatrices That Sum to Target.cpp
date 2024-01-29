@@ -4,7 +4,7 @@
 //https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/?envType=daily-question&envId=2024-01-28
 
 
-
+//subarray sum in 1d leetcode 560
 /******************************************************************** C++ *********************************************************************************/
 //Approach-1 (Brute Force)
 //T.C : O(m^3 * n^3)
